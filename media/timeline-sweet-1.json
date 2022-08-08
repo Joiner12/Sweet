@@ -11,7 +11,35 @@
         }
     },
     "event": [
-        {},
-        {}
+        {
+            "media": {
+                "url": "",
+                "caption": "",
+                "credit": ""
+            },
+            "start_date": {
+                "year": "2010"
+            },
+            "text": {
+                "headline": "A Rocky Comeback",
+                "text": "<p>Houston's comeback tour is cut short due to a diminished voice damaged by years of smoking. She was reportedly devastated at her inability to perform like her old self.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "//twitter.com/Blavity/status/851872780949889024",
+                "caption": "Houston, performing on Good Morning America in 2009.",
+                "credit": "<a href='http://commons.wikimedia.org/wiki/File%3AFlickr_Whitney_Houston_performing_on_GMA_2009_4.jpg'>Asterio Tecson</a> via Wikimedia"
+            },
+            "start_date": {
+                "month": "2",
+                "day": "11",
+                "year": "2012"
+            },
+            "text": {
+                "headline": "Whitney Houston<br/> 1963-2012",
+                "text": "<p>Houston, 48, was discovered dead at the Beverly Hilton Hotel on  on Feb. 11, 2012. She is survived by her daughter, Bobbi Kristina Brown, and mother, Cissy Houston.</p>"
+            }
+        }
     ]
 }

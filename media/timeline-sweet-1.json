@@ -13,18 +13,18 @@
     "events": [
         {
             "media": {
-                "url": "{{ static_url }}/img/examples/houston/family.jpg",
-                "caption": "Houston's mother and Gospel singer, Cissy Houston (left) and cousin Dionne Warwick.",
-                "credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+                "url": "tongguoyanzheng_001.jpg",
+                "caption": "@xialingxue",
+                "credit": "I found a girl beautiful and sweet"
             },
             "start_date": {
-                "month": "8",
-                "day": "9",
-                "year": "1963"
+                "month": "7",
+                "day": "18",
+                "year": "2022"
             },
             "text": {
-                "headline": "A Musical Heritage",
-                "text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
+                "headline": "人生若只如—初见",
+                "text": "<p style='font-size:14px;line-height:62px;'> 我们都走了很远的路,才会在有一天相遇.</p>"
             }
         },
         {

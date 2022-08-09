@@ -13,7 +13,7 @@
     "events": [
         {
             "media": {
-                "url": "tongguoyanzheng_001.jpg",
+                "url": "./tongguoyanzheng_001.jpg",
                 "caption": "@xialingxue",
                 "credit": "I found a girl beautiful and sweet"
             },
@@ -22,24 +22,35 @@
                 "day": "18",
                 "year": "2022"
             },
+            "end_date": {
+                "month": "7",
+                "day": "19",
+                "year": "2022"
+            },
             "text": {
-                "headline": "人生若只如—初见",
-                "text": "<p style='font-size:14px;line-height:62px;'> 我们都走了很远的路,才会在有一天相遇.</p>"
+                "headline": "人生若只如,初见",
+                "text": "<p>我们都走了很远的路,才会在有一天相遇.</p> <p>你说,看缘分吧.</p> <p>我说,这就是缘分.</p>"
             }
         },
         {
             "media": {
-                "url": "https://youtu.be/fSrO91XO1Ck",
+                "url": "./face-1.jpg",
                 "caption": "",
                 "credit": "<a href=\"http://unidiscmusic.com\">Unidisc Music</a>"
             },
             "start_date": {
-                "year": "1978"
+                "month": "7",
+                "day": "18",
+                "year": "2022"
             },
             "text": {
-                "headline": "First Recording",
-                "text": "At the age of 15 Houston was featured on Michael Zager's song, Life's a Party."
-            }
+                "headline": "first impression",
+                "text": "<p>Peace4Lv:你意思就是 骑车可以 </p> <p>Peace4Lv:但是你车打不燃 是这意思嘛</p><p>Tiantian:嗯呢</p><p>Tiantian:!!小摩托需要电</p><p>Peace4Lv:问题应该不大</p>"
+            },
+            "background": {
+                "url": "./face-1.jpg"
+            },
+            "display_date": "you look perfect tonight"
         }
     ]
 }

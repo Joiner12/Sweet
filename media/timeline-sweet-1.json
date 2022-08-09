@@ -1,7 +1,7 @@
 {
     "title": {
         "media": {
-            "url": "Sweet/media/wechat_cover_1.jpg",
+            "url": "media/wechat_cover_1.jpg",
             "caption": "故事的小黄花,从出生那年就飘着",
             "credit": "@Risky JR"
         },
@@ -34,7 +34,7 @@
         },
         {
             "media": {
-                "url": "https://joiner12.github.io/Sweet/media/WeChat_20220809102547.mp4",
+                "url": "{{ static_url }}/media/WeChat_20220809102547.mp4",
                 "caption": ""
             },
             "start_date": {

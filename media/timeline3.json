@@ -40,20 +40,6 @@
                 "headline": "First Recording",
                 "text": "At the age of 15 Houston was featured on Michael Zager's song, Life's a Party."
             }
-        },
-        {
-            "media": {
-                "url": "https://youtu.be/_gvJCCZzmro",
-                "caption": "A young poised Whitney Houston in an interview with EbonyJet.",
-                "credit": "EbonyJet"
-            },
-            "start_date": {
-                "year": "1978"
-            },
-            "text": {
-                "headline": "The Early Years",
-                "text": "As a teen Houston's credits include background vocals for Jermaine Jackson, Lou Rawls and the Neville Brothers. She also sang on Chaka Khan's, 'I'm Every Woman,' a song which she later remade for the <i>Bodyguard</i> soundtrack which is the biggest selling soundtrack of all time. It sold over 42 million copies worldwide."
-            }
         }
     ]
 }

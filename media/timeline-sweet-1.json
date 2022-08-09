@@ -1,9 +1,9 @@
 {
     "title": {
         "media": {
-            "url": "media/wechat_cover_1.jpg",
+            "url": "media/wechat_cover_3.jpg",
             "caption": "故事的小黄花,从出生那年就飘着",
-            "credit": "@Risky JR"
+            "credit": "@Risky JR & Lingxue.Xia"
         },
         "text": {
             "headline": "It's a wonderful start ...",
@@ -13,9 +13,9 @@
     "events": [
         {
             "media": {
-                "url": "https://joiner12.github.io/Sweet/media/tongguoyanzheng_001.jpg",
-                "caption": "@xialingxue",
-                "credit": "I found a girl beautiful and sweet"
+                "url": "media/tongguoyanzheng_001.jpg",
+                "caption": "I found a girl beautiful and sweet",
+                "credit": "@Lingxue.Xia"
             },
             "start_date": {
                 "month": "7",
@@ -34,7 +34,7 @@
         },
         {
             "media": {
-                "url": "{{ static_url }}/media/WeChat_20220809102547.mp4",
+                "url": "media/WeChat_20220809102547.mp4",
                 "caption": ""
             },
             "start_date": {
@@ -47,7 +47,7 @@
                 "text": "<p>Peace4Lv:你意思就是 骑车可以 </p> <p>Peace4Lv:但是你车打不燃 是这意思嘛</p><p>Tiantian:嗯呢</p><p>Tiantian:!!小摩托需要电</p><p>Peace4Lv:问题应该不大</p>"
             },
             "background": {
-                "url": "{{ static_url }}/Sweet/media/firstimpression_1.png"
+                "url": "media/firstimpression_1.png"
             },
             "display_date": "you look perfect tonight"
         }

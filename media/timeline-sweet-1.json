@@ -1,7 +1,7 @@
 {
     "title": {
         "media": {
-            "url": "{{ static_url }}/Sweet/media/wechat_cover_1.jpg",
+            "url": "https://joiner12.github.io/Sweet/media/wechat_cover_1.jpg",
             "caption": "故事的小黄花,从出生那年就飘着",
             "credit": "@Risky JR"
         },
@@ -13,7 +13,7 @@
     "events": [
         {
             "media": {
-                "url": "{{ static_url }}/Sweet/media/tongguoyanzheng_001.jpg",
+                "url": "https://joiner12.github.io/Sweet/media/tongguoyanzheng_001.jpg",
                 "caption": "@xialingxue",
                 "credit": "I found a girl beautiful and sweet"
             },
@@ -34,7 +34,7 @@
         },
         {
             "media": {
-                "url": "{{ static_url }}/Sweet/media/WeChat_20220809102547.mp4",
+                "url": "https://joiner12.github.io/Sweet/media/WeChat_20220809102547.mp4",
                 "caption": ""
             },
             "start_date": {

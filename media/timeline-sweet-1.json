@@ -1,7 +1,7 @@
 {
     "title": {
         "media": {
-            "url": "wechat_cover_1.jpg",
+            "url": "{{ static_url }}/Sweet/media/wechat_cover_1.jpg",
             "caption": "故事的小黄花,从出生那年就飘着",
             "credit": "@Risky JR"
         },
@@ -34,7 +34,7 @@
         },
         {
             "media": {
-                "url": "WeChat_20220809102547.mp4",
+                "url": "{{ static_url }}/Sweet/media/WeChat_20220809102547.mp4",
                 "caption": ""
             },
             "start_date": {
@@ -47,7 +47,7 @@
                 "text": "<p>Peace4Lv:你意思就是 骑车可以 </p> <p>Peace4Lv:但是你车打不燃 是这意思嘛</p><p>Tiantian:嗯呢</p><p>Tiantian:!!小摩托需要电</p><p>Peace4Lv:问题应该不大</p>"
             },
             "background": {
-                "url": "firstimpression_1.png"
+                "url": "{{ static_url }}/Sweet/media/firstimpression_1.png"
             },
             "display_date": "you look perfect tonight"
         }

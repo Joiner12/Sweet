@@ -13,7 +13,7 @@
     "events": [
         {
             "media": {
-                "url": "{{ static_url }}/media/tongguoyanzheng_001.jpg",
+                "url": "{{ static_url }}/Sweet/media/tongguoyanzheng_001.jpg",
                 "caption": "@xialingxue",
                 "credit": "I found a girl beautiful and sweet"
             },

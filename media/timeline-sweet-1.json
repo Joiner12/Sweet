@@ -74,6 +74,30 @@
                 "url": "media/firstimpression_1.png"
             },
             "display_date": "you look perfect tonight"
+        },
+        {
+            "media": {
+                "url": "第一支花-1.jpg",
+                "caption": ""
+            },
+            "start_date": {
+                "month": "8",
+                "day": "4",
+                "year": "2022"
+            },
+            "end_date":{
+                "month": "8",
+                "day": "11",
+                "year": "2022"
+            },
+            "text": {
+                "headline": "七夕-玫瑰",
+                "text": "<p>金风雨露一相逢 </p> <p>便胜却人间无数 </p>"
+            },
+            "background": {
+                "url": ""
+            },
+            "display_date": "you look perfect tonight"
         }
     ]
 }

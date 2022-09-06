@@ -203,7 +203,10 @@
             },
             "text": {
                 "headline": "Giant之约",
-                "text": "<p>我们一起骑车去</p><p><i class=\"fa fa-bicycle\" style=\"font-size:24px\"></i></p>"
+                "text": "<p>你想做的事</p><p>就是我想做的事</p><p style='font-size:30px;'>我愿意陪你去做</p>"
+            },
+            "background": {
+                "url": "media/giant.jpg"
             }
         }
     ]

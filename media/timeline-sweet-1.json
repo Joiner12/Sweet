@@ -203,10 +203,71 @@
             },
             "text": {
                 "headline": "Giant之约",
-                "text": "<p>你想做的事</p><p>就是我想做的事</p><p style='font-size:30px;'>我愿意陪你去做</p>"
+                "text": "<p>你想做的事</p><p>就是我想做的事</p><p>我很开心能陪你一起去做</p>"
             },
             "background": {
                 "url": "media/giant.jpg"
+            }
+        },
+        {
+            "media": {
+                "url": ""
+            },
+            "start_date": {
+                "month": "8",
+                "day": "27",
+                "year": "2022"
+            },
+            "end_date": {
+                "month": "8",
+                "day": "27",
+                "year": "2022"
+            },
+            "text": {
+                "headline": "特别的一天",
+                "text": "<p>你很委屈</p><p>我能做的就是听你说</p><p>因为父母也有他们正确的地方</p>"
+            },
+            "background": {
+                "url": "media/img1662473909536.png"
+            }
+        },
+        {
+            "media": {
+                "url": "media/20220906-222341.jpg"
+            },
+            "start_date": {
+                "month": "9",
+                "day": "1",
+                "year": "2022"
+            },
+            "end_date": {
+                "month": "9",
+                "day": "2",
+                "year": "2022"
+            },
+            "background": {
+                "url": "media/20220906204329.jpg"
+            },
+            "text": {
+                "headline": "抽大烟的'社会'大姐",
+                "text": "<p>叶子烟的味道</p><p>你懂</p><p>我也懂 很冲！</p><p>虽然你觉得抽烟很酷 但是我不希望你抽烟</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "media/20220906-223557.jpg",
+                "caption": "可爱女人"
+            },
+            "start_date": {
+                "month": "9",
+                "day": "5",
+                "year": "2022"
+            },
+            "background": {
+                "url": "media/20220906210521.jpg"
+            },
+            "text": {
+                "text": "<p>漂亮的让我面红的可爱女人</p><p>温柔的让我心疼的可爱女人</p><p>透明的让我感动的可爱女人</p><p>坏坏的让我疯狂的可爱女人</p><p>世界这样大而我而我</p><p>只是只小小小的蚂蚁</p><p>但我要尽全力全力全力保护你</p>"
             }
         }
     ]

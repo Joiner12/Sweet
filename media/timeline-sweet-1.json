@@ -54,6 +54,9 @@
             "text": {
                 "headline": "人生若只如,初见",
                 "text": "<p>我们都走了很远的路,才会在有一天相遇.</p> <p>你说,看缘分吧.</p> <p>我说,这就是缘分.</p>"
+            },
+            "background": {
+                "url": "media/yejiang.jpg"
             }
         },
         {

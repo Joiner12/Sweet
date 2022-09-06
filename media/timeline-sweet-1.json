@@ -203,7 +203,7 @@
             },
             "text": {
                 "headline": "Giant之约",
-                "text": "<p>我们一起骑车去</p>"
+                "text": "<p>我们一起骑车去</p><p><i class=\"fa fa-bicycle\" style=\"font-size:24px\"></i></p>"
             }
         }
     ]

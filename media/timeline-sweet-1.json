@@ -120,6 +120,9 @@
             "text": {
                 "headline": "你说 我陪你唱歌吧",
                 "text": "<p>最是人间动情处 </p>"
+            },
+            "background": {
+                "url": "media/20220906185601.jpg"
             }
         },
         {
@@ -143,6 +146,27 @@
             },
             "background": {
                 "url": "media/20220906182753.jpg"
+            }
+        },
+        {
+            "media": {
+                "url": "media/20220906204322.jpg",
+                "caption": "嘻嘻哈哈",
+                "credit": "@嘻嘻"
+            },
+            "start_date": {
+                "month": "8",
+                "day": "25",
+                "year": "2022"
+            },
+            "end_date": {
+                "month": "8",
+                "day": "26",
+                "year": "2022"
+            },
+            "text": {
+                "headline": "装在口袋里的嘻嘻",
+                "text": "<p>我好喜欢抱着嘻嘻睡觉</p><p>因为它身上有你的香</p>"
             }
         }
     ]

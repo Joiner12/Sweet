@@ -150,6 +150,29 @@
         },
         {
             "media": {
+                "url": "media/20220906204354.jpg",
+                "caption": "第一张合照"
+            },
+            "start_date": {
+                "month": "8",
+                "day": "20",
+                "year": "2022"
+            },
+            "end_date": {
+                "month": "8",
+                "day": "21",
+                "year": "2022"
+            },
+            "text": {
+                "headline": "《我们》",
+                "text": "<p>天气挺热</p><p>我们看了一天的房子</p><p>你的帽子</p><p>还有我喜欢的你</p>"
+            },
+            "background": {
+                "url": "media/20220906204354.jpg"
+            }
+        },
+        {
+            "media": {
                 "url": "media/20220906204322.jpg",
                 "caption": "嘻嘻哈哈",
                 "credit": "@嘻嘻"
@@ -167,6 +190,20 @@
             "text": {
                 "headline": "装在口袋里的嘻嘻",
                 "text": "<p>我好喜欢抱着嘻嘻睡觉</p><p>因为它身上有你的香</p>"
+            }
+        },
+        {
+            "media": {
+                "url": ""
+            },
+            "start_date": {
+                "month": "8",
+                "day": "25",
+                "year": "2022"
+            },
+            "text": {
+                "headline": "Giant之约",
+                "text": "<p>我们一起骑车去</p>"
             }
         }
     ]

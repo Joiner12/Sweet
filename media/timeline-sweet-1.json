@@ -289,7 +289,7 @@
     },
     {
       "media": {
-        "url": ""
+        "url": "media/loveletter-1.jgp"
       },
       "start_date": {
         "month": "9",
@@ -300,13 +300,25 @@
         "url": ""
       },
       "text": {
-        "headline": "自省",
-        "text": "<p>爱一个人的意义</p><p>并不在于占有ta 而是要肯定ta</p><p>这意味着要欣然地给与他一个充分表达自己独一无二的人性的全部权力</p><p>——————奥佛斯.特里特</p>"
+        "headline": "love letter",
+        "text": "<p>什么是情书？</p><p>情书是通篇没有一个\"爱\"</p><p>却又满是爱的文字</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "media/loveletter-1.jgp"
       },
-      "display_date": {
-        "month": "9",
-        "day": "10",
+      "start_date": {
+        "month": "10",
+        "day": "1",
         "year": "2022"
+      },
+      "background": {
+        "url": ""
+      },
+      "text": {
+        "headline": "love letter",
+        "text": "<p>什么是情书？</p><p>情书是通篇没有一个\"爱\"</p><p>却又满是爱的文字</p>"
       }
     }
   ]

@@ -289,7 +289,7 @@
     },
     {
       "media": {
-        "url": "media/loveletter-1.jgp"
+        "url": "media/loveletter-1.jpg"
       },
       "start_date": {
         "month": "9",
@@ -297,7 +297,7 @@
         "year": "2022"
       },
       "background": {
-        "url": ""
+        "url": "media/loveletter-2.jpg"
       },
       "text": {
         "headline": "love letter",
@@ -306,7 +306,7 @@
     },
     {
       "media": {
-        "url": "media/loveletter-1.jpg"
+        "url": "media/guaiqiao-1.gif"
       },
       "start_date": {
         "month": "10",
@@ -314,11 +314,28 @@
         "year": "2022"
       },
       "background": {
-        "url": ""
+        "url": "media/guaiqiao-1.jpg"
       },
       "text": {
-        "headline": "love letter",
-        "text": "<p>什么是情书？</p><p>情书是通篇没有一个\"爱\"</p><p>却又满是爱的文字</p>"
+        "headline": "我们一起见家长啦",
+        "text": "<p>叔叔,阿姨!</p><p>您好!</p><p>----</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "media/guaiqiao-1.gif"
+      },
+      "start_date": {
+        "month": "10",
+        "day": "15",
+        "year": "2022"
+      },
+      "background": {
+        "url": "media/guaiqiao-1.jpg"
+      },
+      "text": {
+        "headline": "One Night in ...",
+        "text": "<p>😳希望每个醒来的时刻</p><p>都是有你在旁边</p>"
       }
     }
   ]

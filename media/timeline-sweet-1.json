@@ -356,7 +356,7 @@
       }
     },
     {
-      "media": {
+      "background": {
         "url": "media/pexels-simon-berger-730614.jpg"
       },
       "start_date": {
@@ -365,7 +365,7 @@
         "year": "2022"
       },
       "text": {
-        "headline": "认知、矛盾、情绪",
+        "headline": "认知 情绪",
         "text": "<p>请控制好你的情绪</p><p>你能伤害到的只会是在乎你的人！</p>"
       }
     }

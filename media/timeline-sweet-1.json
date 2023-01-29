@@ -368,6 +368,20 @@
         "headline": "认知 情绪",
         "text": "<p>请控制好你的情绪</p><p>你能伤害到的只会是在乎你的人！</p>"
       }
+    },
+    {
+      "background": {
+        "url": "media/pexels-simon-berger-730614.jpg"
+      },
+      "start_date": {
+        "month": "12",
+        "day": "24",
+        "year": "2022"
+      },
+      "text": {
+        "headline": "王的宝座",
+        "text": "<p>It's throne of a Woman</p><p>The Woman is my Queen.</p>"
+      }
     }
   ]
 }
